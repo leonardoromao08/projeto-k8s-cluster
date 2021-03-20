@@ -1,4 +1,4 @@
-# Treinamento Descomplicando o Ansible
+# Treinamento de Ansible
 
 Projeto do treinamento para instalação de um cluster Kubernetes utilizando o Ansible + AWS.
 
