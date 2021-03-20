@@ -2,8 +2,6 @@
 
 Projeto do treinamento para instalação de um cluster Kubernetes utilizando o Ansible + AWS.
 
-Projeto com contribuição dos alunos
-
 ## Fases do projeto
 
 - Provisioning => Criar as instâncias/vms para o nosso cluster.
