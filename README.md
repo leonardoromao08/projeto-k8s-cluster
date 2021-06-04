@@ -1,4 +1,4 @@
-# Treinamento de Ansible
+# Configuração cluster K8s com Ansible
 
 Projeto do treinamento para instalação de um cluster Kubernetes utilizando o Ansible + AWS.
 
